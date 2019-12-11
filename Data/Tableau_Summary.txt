@@ -10,7 +10,7 @@ Reviewing the sales of Daily, 3-Day, and Annual Passes, I found a couple a impor
 
 Reviewing the 4 charts in a clockwise fashion and starting in the upper left, you can see the sales of 3-Day Passes held mostly flat for all three years in Q1.  Q2 in 2017 and 2018 were also mostly flat.  The Q2 report of 2019, should be taken with a grain of salt and could likely be projected as similar as previous years’ sales.  Having worked in Manhattan as the program was rolling out, I would speculate most of the 3-Day passes are being bought by tourists.
 
-In the upper right, we have the comparisons of the Day Passes.  These are likely used by a combination of tourists and commuters.  You can see Q1 in 2017 and 2018 was mostly flat, but jumped significantly  (even with the non-reported days of June).  Q2 grew roughly 32% from 2017 to 2018 and 42% from 2018 to 2019 with 2/3s of June not reported.
+In the upper right, we have the comparisons of the Day Passes.  These are likely used by a combination of tourists and commuters.  You can see Q1 in 2017 and 2018 was mostly flat, but jumped significantly (even with the non-reported days of June) in 2019.  Q2 grew roughly 32% from 2017 to 2018 and 42% from 2018 to 2019 with 2/3s of June not reported.
 
 In the bottom right, I am displaying a pie chart of all Q1 and Q2 months, where you can customize the months displayed in the pie chart.  Selecting each month individually, you can see the years respective performance clearly.  Once again, June 2019 is under reported by 20 days and leading to underreported results.
 
